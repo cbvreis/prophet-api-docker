@@ -15,6 +15,34 @@ Objetivo deste projeto era passar por todas as etapas de desenvolvimento de mode
 
 </br>
 
+
+## 🗂 Estrutura do projeto
+
+```
+prophet-api-docker
+│   README.md
+│   main.py    
+│   Dockerfile  
+│   requirements.txt    
+│   saida.xlsx    
+│
+└───data
+│   │   petr4.csv
+│   
+└───models
+|    │   Prophet.py
+|    │   model.pkl
+│
+│
+└───notebooks
+|    │   data-petr4.ipynb
+
+
+
+ 
+```
+
+
 ## 🗂 Como baixar e iniciar o projeto
 
 ### Docker
