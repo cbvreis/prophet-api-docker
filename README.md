@@ -35,7 +35,7 @@ prophet-api-docker
 │
 │
 └───notebooks
-|    │   data-petr4.ipynb
+    │   data-petr4.ipynb
 
 
 
