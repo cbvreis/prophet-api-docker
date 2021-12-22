@@ -16,4 +16,5 @@ RUN pip install prophet
 RUN mkdir -p /home/user
 WORKDIR /home/user
 COPY . ./home/user
-CMD ["python", "./main.py"]
+#CMD ["python", "./main.py"]
+CMD ["ls"]
